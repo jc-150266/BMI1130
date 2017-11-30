@@ -21,6 +21,7 @@
                     Clicked="~BMI_Button_Click"
                     />
             
+            
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
