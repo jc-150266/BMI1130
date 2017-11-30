@@ -25,7 +25,7 @@ namespace BMI
 
             double dBMI = dWeight / dHeight / dHeight;
 
-            DisplayAlert("BMI", dHeight + ":太りすぎ", "OK");
+            DisplayAlert("BMI", dBMI+ ":太りすぎ", "OK");
         }
     }
 }
