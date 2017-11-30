@@ -18,7 +18,7 @@
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" 
                     x:Name="BMI_Button"
-                    Clicked="~BMI_Button_Click"
+                    Clicked="BMI_Button_Click"
                     />
             
             
