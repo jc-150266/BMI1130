@@ -12,7 +12,7 @@
             <Entry Text="160.0"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" 
-                   x:Name="~height" />
+                   x:Name="height" />
 
             <Button Text="BMIを計算"
                 VerticalOptions="CenterAndExpand" 
